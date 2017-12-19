@@ -13,6 +13,7 @@ namespace ConsoleApp1
 			Console.WriteLine("hello world");
 			Console.WriteLine("hello world");
 			Console.WriteLine("hello .net");
+			Console.WriteLine("----------------");
 
 		}
 	}
