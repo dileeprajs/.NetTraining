@@ -17,5 +17,8 @@ namespace ConsoleApp1
 			Console.WriteLine("@@@@@@@@@@@@@@@");
 			Console.WriteLine("$$$$$$$$$$$$$$$$$");
 		}
+
+		public static void Test(){
+			}
 	}
 }
